@@ -6,16 +6,16 @@ graphs_df = pd.read_csv('Cleaned_Olympic_Swimming_Results.csv')
 unique_types = graphs_df['Stroke'].unique()
 print(unique_types)
 
-freestyleMen_df = graphs_df[graphs_df['Stroke'] == 'Freestyle']
+freestyle100Men_df = graphs_df[graphs_df['Stroke'] == 'Freestyle']
 backstroke_df = graphs_df[graphs_df['Stroke'] == 'Backstroke']
 breaststroke_df = graphs_df[graphs_df['Stroke'] == 'Breaststroke']
 butterfly_df = graphs_df[graphs_df['Stroke'] == 'Butterfly']
 
-freestyleMen_df.drop(columns = ['Unnamed: 0'], inplace = True)
-freestyleMen_df.drop(columns = ['Unnamed: 0.1'], inplace = True)
-freestyleMen_df.drop(columns = ['Location'], inplace = True)
-womenRemove = freestyleMen_df[freestyleMen_df['Gender'] == 'Women' ].index
-freestyleMen_df.drop(womenRemove, inplace = True)
+freestyle100Men_df.drop(columns = ['Unnamed: 0'], inplace = True)
+freestyle100Men_df.drop(columns = ['Unnamed: 0.1'], inplace = True)
+freestyle100Men_df.drop(columns = ['Location'], inplace = True)
+womenRemove = freestyle100Men_df[freestyleMen_df['Gender'] == 'Women' ].index
+freestyle100Men_df.drop(womenRemove, inplace = True)
 
 print(freestyleMen_df)
 freestyleMen_df.to_csv('Freestyle_Men.csv')
