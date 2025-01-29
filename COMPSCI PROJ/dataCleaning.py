@@ -10,6 +10,7 @@ swim_df = swim_df.dropna()
 
 #Now I remove any columns I won't need, such as the 'Relay?' column which adds nothing to my analysis of the dataset.
 swim_df.drop(columns = 'Relay?', inplace = True)
+swim_df.drop(columns = 'Rank', inplace = True)
 
 #Now, I noticed that there are a few athletes who have a "DNS", "DNF" or "DQ" Value for their result. This means they did not complete the race or were disqualified! I'm going to remove any row that doesn't have a finishing time as their result.
 index_DNF = swim_df[ swim_df['Results'] == 'Did not finish' ].index #This finds any rows that has a value of 'Did not finish' in the 'Results' column.

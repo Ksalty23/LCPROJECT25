@@ -1,0 +1,240 @@
+,Year,Distance (in meters),Stroke,Gender,Team,Athlete,Results
+24,2020,100m,Freestyle,Men,USA,Caeleb Dressel,47.02
+25,2020,100m,Freestyle,Men,AUS,Kyle Chalmers,47.08
+26,2020,100m,Freestyle,Men,ROC,Kliment Kolesnikov,47.44
+27,2020,100m,Freestyle,Men,FRA,Maxime Grousset,47.72
+28,2020,100m,Freestyle,Men,KOR,Sunwoo Hwang,47.82
+29,2020,100m,Freestyle,Men,ITA,Alessandro Miressi,47.86
+30,2020,100m,Freestyle,Men,ROU,David Popovici,48.04
+31,2020,100m,Freestyle,Men,HUN,Nandor Nemeth,48.1
+32,2020,50m,Freestyle,Men,USA,Caeleb Dressel,21.07
+33,2020,50m,Freestyle,Men,FRA,Florent Manaudou,21.55
+34,2020,50m,Freestyle,Men,BRA,Bruno Fratus,21.57
+35,2020,50m,Freestyle,Men,USA,Michael Andrew,21.6
+36,2020,50m,Freestyle,Men,GBR,Ben Proud,21.72
+37,2020,50m,Freestyle,Men,GRE,Kristian Gkolomeev,21.72
+38,2020,50m,Freestyle,Men,ITA,Lorenzo Zazzeri,21.78
+39,2020,50m,Freestyle,Men,NED,Thom De Boer,21.79
+111,2016,100m,Freestyle,Men,AUS,Kyle Chalmers,47.58
+112,2016,100m,Freestyle,Men,BEL,Pieter Timmers,47.8
+113,2016,100m,Freestyle,Men,USA,Nathan Adrian,47.85
+114,2016,100m,Freestyle,Men,CAN,Santo Condorelli,47.88
+115,2016,100m,Freestyle,Men,GBR,Duncan Scott,48.01
+116,2016,100m,Freestyle,Men,USA,Caeleb Dressel,48.02
+117,2016,100m,Freestyle,Men,AUS,Cameron Mcevoy,48.12
+118,2016,100m,Freestyle,Men,BRA,Marcelo Chierighini,48.41
+127,2016,50m,Freestyle,Men,USA,Anthony Ervin,21.4
+128,2016,50m,Freestyle,Men,FRA,Florent Manaudou,21.41
+129,2016,50m,Freestyle,Men,USA,Nathan Adrian,21.49
+130,2016,50m,Freestyle,Men,GBR,Ben Proud,21.68
+131,2016,50m,Freestyle,Men,UKR,Andriy Hovorov,21.74
+132,2016,50m,Freestyle,Men,BRA,Bruno Fratus,21.79
+133,2016,50m,Freestyle,Men,RSA,Bradley Edward Tandy,21.79
+134,2016,50m,Freestyle,Men,LTU,Simonas Bilis,22.08
+181,2012,100m,Freestyle,Men,USA,Nathan Adrian,47.52
+182,2012,100m,Freestyle,Men,AUS,James Magnussen,47.53
+183,2012,100m,Freestyle,Men,CAN,Brent Hayden,47.8
+184,2012,100m,Freestyle,Men,FRA,Yannick Agnel,47.84
+185,2012,100m,Freestyle,Men,NED,Sebastiaan Verschuren,47.88
+186,2012,100m,Freestyle,Men,BRA,Cesar Cielo Filho,47.92
+187,2012,100m,Freestyle,Men,CUB,Hanser Garcia,48.04
+188,2012,100m,Freestyle,Men,RUS,Nikita Lobintsev,48.44
+197,2012,50m,Freestyle,Men,FRA,Florent Manaudou,21.34
+198,2012,50m,Freestyle,Men,USA,Cullen Jones,21.54
+199,2012,50m,Freestyle,Men,BRA,Cesar Cielo Filho,21.59
+200,2012,50m,Freestyle,Men,BRA,Bruno Fratus,21.61
+201,2012,50m,Freestyle,Men,USA,Anthony Ervin,21.78
+202,2012,50m,Freestyle,Men,RSA,Roland Schoeman,21.8
+203,2012,50m,Freestyle,Men,TTO,George Bovell,21.82
+204,2012,50m,Freestyle,Men,AUS,Eamon Sullivan,21.98
+249,2008,100m,Freestyle,Men,FRA,Alain Bernard,47.21
+250,2008,100m,Freestyle,Men,AUS,Eamon Sullivan,47.32
+251,2008,100m,Freestyle,Men,USA,Jason Lezak,47.67
+252,2008,100m,Freestyle,Men,BRA,Cesar Cielo Filho,47.67
+253,2008,100m,Freestyle,Men,NED,Pieter Van Den Hoogenband,47.75
+254,2008,100m,Freestyle,Men,RSA,Lyndon Ferns,48.04
+255,2008,100m,Freestyle,Men,AUS,Matt Targett,48.2
+256,2008,100m,Freestyle,Men,SWE,Stefan Nystrand,48.33
+265,2008,50m,Freestyle,Men,BRA,Cesar Cielo Filho,21.3
+266,2008,50m,Freestyle,Men,FRA,Amaury Leveaux,21.45
+267,2008,50m,Freestyle,Men,FRA,Alain Bernard,21.49
+268,2008,50m,Freestyle,Men,AUS,Ashley Callus,21.62
+269,2008,50m,Freestyle,Men,USA,Ben Wildman-Tobriner,21.64
+270,2008,50m,Freestyle,Men,AUS,Eamon Sullivan,21.65
+271,2008,50m,Freestyle,Men,RSA,Roland Schoeman,21.67
+272,2008,50m,Freestyle,Men,SWE,Stefan Nystrand,21.72
+305,2004,100m,Freestyle,Men,NED,Pieter Van Den Hoogenband,48.17
+306,2004,100m,Freestyle,Men,RSA,Roland Schoeman,48.23
+307,2004,100m,Freestyle,Men,AUS,Ian Thorpe,48.56
+308,2004,100m,Freestyle,Men,RSA,Ryk Neethling,48.63
+309,2004,100m,Freestyle,Men,ITA,Filippo Magnini,48.99
+310,2004,100m,Freestyle,Men,CRO,Duje Draganja,49.23
+311,2004,100m,Freestyle,Men,ALG,Salim Iles,49.3
+312,2004,100m,Freestyle,Men,RUS,Andrey Kapralov,49.3
+321,2004,50m,Freestyle,Men,USA,"Gary Hall, Jr.",21.93
+322,2004,50m,Freestyle,Men,CRO,Duje Draganja,21.94
+323,2004,50m,Freestyle,Men,RSA,Roland Schoeman,22.02
+324,2004,50m,Freestyle,Men,SWE,Stefan Nystrand,22.08
+325,2004,50m,Freestyle,Men,USA,Jason Lezak,22.11
+326,2004,50m,Freestyle,Men,AUS,Brett Hawke,22.18
+327,2004,50m,Freestyle,Men,UKR,Oleksandr Volynets,22.26
+328,2004,50m,Freestyle,Men,ALG,Salim Iles,22.37
+361,2000,100m,Freestyle,Men,NED,Pieter Van Den Hoogenband,48.3
+362,2000,100m,Freestyle,Men,RUS,Alexander Popov,48.69
+363,2000,100m,Freestyle,Men,USA,"Gary Hall, Jr.",48.73
+364,2000,100m,Freestyle,Men,AUS,Michael Klim,48.74
+365,2000,100m,Freestyle,Men,USA,Neil Walker,49.09
+366,2000,100m,Freestyle,Men,SWE,Lars Frolander,49.22
+367,2000,100m,Freestyle,Men,RUS,Denis Pimankov,49.36
+368,2000,100m,Freestyle,Men,AUS,Christopher John Fydler,49.44
+377,2000,50m,Freestyle,Men,USA,"Gary Hall, Jr.",21.98
+378,2000,50m,Freestyle,Men,USA,Anthony Ervin,21.98
+379,2000,50m,Freestyle,Men,NED,Pieter Van Den Hoogenband,22.03
+380,2000,50m,Freestyle,Men,ITA,Lorenzo Vismara,22.11
+381,2000,50m,Freestyle,Men,POL,Bartosz Kizierowski,22.22
+382,2000,50m,Freestyle,Men,RUS,Alexander Popov,22.24
+383,2000,50m,Freestyle,Men,GBR,Mark Andrew Foster,22.41
+384,2000,50m,Freestyle,Men,UKR,Oleksandr Volynets,22.51
+412,1996,100m,Freestyle,Men,RUS,Alexander Popov,48.74
+413,1996,100m,Freestyle,Men,USA,"Gary Hall, Jr.",48.81
+414,1996,100m,Freestyle,Men,BRA,Gustavo Borges,49.02
+415,1996,100m,Freestyle,Men,NED,Pieter Van Den Hoogenband,49.13
+416,1996,100m,Freestyle,Men,BRA,Fernando Scherer,49.57
+417,1996,100m,Freestyle,Men,UKR,Pavlo Khnykin,49.65
+418,1996,100m,Freestyle,Men,PUR,Ricardo Busquets Healy,49.68
+419,1996,100m,Freestyle,Men,VEN,Francisco Sanchez,49.84
+428,1996,50m,Freestyle,Men,RUS,Alexander Popov,22.13
+429,1996,50m,Freestyle,Men,USA,"Gary Hall, Jr.",22.26
+430,1996,50m,Freestyle,Men,BRA,Fernando Scherer,22.29
+431,1996,50m,Freestyle,Men,CHN,Chengji Jiang,22.33
+432,1996,50m,Freestyle,Men,RSA,Brendon Dedekind,22.59
+433,1996,50m,Freestyle,Men,USA,David Fox,22.68
+434,1996,50m,Freestyle,Men,VEN,Francisco Sanchez,22.72
+435,1996,50m,Freestyle,Men,PUR,Ricardo Busquets Healy,22.73
+466,1992,100m,Freestyle,Men,EUN,Alexander Popov,49.02
+467,1992,100m,Freestyle,Men,BRA,Gustavo Borges,49.43
+468,1992,100m,Freestyle,Men,FRA,Stephan Caron,49.5
+469,1992,100m,Freestyle,Men,USA,Jon Olsen,49.51
+470,1992,100m,Freestyle,Men,USA,Matthew Biondi,49.53
+471,1992,100m,Freestyle,Men,SWE,Tommy Werner,49.63
+472,1992,100m,Freestyle,Men,GER,Christian Tröger,49.84
+473,1992,100m,Freestyle,Men,EUN,Gennady Prigoda,50.25
+482,1992,50m,Freestyle,Men,EUN,Alexander Popov,21.91
+483,1992,50m,Freestyle,Men,USA,Matthew Biondi,22.09
+484,1992,50m,Freestyle,Men,USA,Thomas Michael Jager,22.3
+485,1992,50m,Freestyle,Men,FRA,Christophe Kalfayan,22.5
+486,1992,50m,Freestyle,Men,RSA,Peter Rowan Williams,22.5
+487,1992,50m,Freestyle,Men,GBR,Mark Andrew Foster,22.52
+488,1992,50m,Freestyle,Men,EUN,Gennady Prigoda,22.54
+489,1992,50m,Freestyle,Men,GER,Nils Rudolph,22.73
+518,1988,100m,Freestyle,Men,USA,Matthew Biondi,48.63
+519,1988,100m,Freestyle,Men,USA,Christopher Charles Jacobs,49.08
+520,1988,100m,Freestyle,Men,FRA,Stephan Caron,49.62
+521,1988,100m,Freestyle,Men,URS,Gennady Prigoda,49.75
+522,1988,100m,Freestyle,Men,URS,Iurie Başcatov,50.08
+523,1988,100m,Freestyle,Men,AUS,Andrew James Baildon,50.23
+524,1988,100m,Freestyle,Men,SWE,Per Johansson,50.35
+525,1988,100m,Freestyle,Men,SWE,Tommy Werner,50.54
+534,1988,50m,Freestyle,Men,USA,Matthew Biondi,22.14
+535,1988,50m,Freestyle,Men,USA,Thomas Michael Jager,22.36
+536,1988,50m,Freestyle,Men,URS,Gennady Prigoda,22.71
+537,1988,50m,Freestyle,Men,SUI,Dano Halsall,22.83
+538,1988,50m,Freestyle,Men,SUI,Stefan Volery,22.84
+539,1988,50m,Freestyle,Men,URS,Vladimir Tkachenko,22.88
+540,1988,50m,Freestyle,Men,FRG,Frank Henter,23.03
+541,1988,50m,Freestyle,Men,AUS,Andrew James Baildon,23.15
+567,1984,100m,Freestyle,Men,USA,Ambrose Iv Gaines,49.8
+568,1984,100m,Freestyle,Men,AUS,Marcus Stockwell,50.24
+569,1984,100m,Freestyle,Men,SWE,Per Johansson,50.31
+570,1984,100m,Freestyle,Men,USA,Michael Steward Heath,50.41
+571,1984,100m,Freestyle,Men,SUI,Dano Halsall,50.5
+572,1984,100m,Freestyle,Men,FRA,Stephan Caron,50.7
+573,1984,100m,Freestyle,Men,VEN,Alberto Eugenio Mestre Sosa,50.7
+574,1984,100m,Freestyle,Men,FRG,Dirk Korthals,50.93
+599,1980,100m,Freestyle,Men,GDR,Jörg Woithe,50.4
+600,1980,100m,Freestyle,Men,SWE,Per Holmertz,50.91
+601,1980,100m,Freestyle,Men,SWE,Per Johansson,51.29
+602,1980,100m,Freestyle,Men,URS,Sergei Koplyakov,51.34
+603,1980,100m,Freestyle,Men,ITA,Raffaele Franceschi,51.69
+604,1980,100m,Freestyle,Men,URS,Sergei Krasiuk,51.8
+605,1980,100m,Freestyle,Men,FRA,Rene Ecuyer,52.01
+606,1980,100m,Freestyle,Men,AUS,Graeme Brewer,52.22
+631,1976,100m,Freestyle,Men,USA,Jim Montgomery,49.99
+632,1976,100m,Freestyle,Men,USA,"Jack, Jr. Babashoff",50.81
+633,1976,100m,Freestyle,Men,FRG,Peter Nocke,51.31
+634,1976,100m,Freestyle,Men,FRG,Klaus Steinbach,51.68
+635,1976,100m,Freestyle,Men,ITA,Marcello Guarducci,51.7
+636,1976,100m,Freestyle,Men,USA,Joseph Stuart Bottom,51.79
+637,1976,100m,Freestyle,Men,URS,Vladimir Bure,52.03
+638,1976,100m,Freestyle,Men,URS,Andrei Krylov,52.15
+662,1972,100m,Freestyle,Men,USA,Mark Spitz,51.22
+663,1972,100m,Freestyle,Men,USA,Jerry Alan Heidenreich,51.65
+664,1972,100m,Freestyle,Men,URS,Vladimir Bure,51.77
+665,1972,100m,Freestyle,Men,USA,John Joseph Murphy,52.08
+666,1972,100m,Freestyle,Men,AUS,Michael Vincent Wenden,52.41
+667,1972,100m,Freestyle,Men,URS,Igor Grivennikov,52.44
+668,1972,100m,Freestyle,Men,FRA,Michel Rousseau,52.9
+669,1972,100m,Freestyle,Men,FRG,Klaus Steinbach,52.92
+685,1968,100m,Freestyle,Men,AUS,Michael Vincent Wenden,52.2
+686,1968,100m,Freestyle,Men,USA,Kenneth Marshall Walsh,52.8
+687,1968,100m,Freestyle,Men,USA,Mark Spitz,53.0
+688,1968,100m,Freestyle,Men,GBR,Robert Bilsland Mcgregor,53.5
+689,1968,100m,Freestyle,Men,URS,Leonid Ilyichev,53.8
+690,1968,100m,Freestyle,Men,URS,Georgijs Kuļikovs,53.8
+691,1968,100m,Freestyle,Men,ARG,Luis Alberto Nicolao Yanuzzi,53.9
+692,1968,100m,Freestyle,Men,USA,Zachary Zorn,53.9
+693,1964,100m,Freestyle,Men,USA,Donald Arthur Schollander,53.4
+694,1964,100m,Freestyle,Men,GBR,Robert Bilsland Mcgregor,53.5
+695,1964,100m,Freestyle,Men,GER,Hans-Joachim Klein,54.0
+696,1964,100m,Freestyle,Men,USA,Gary Steven Ilman,54.0
+697,1964,100m,Freestyle,Men,FRA,Alain Gottvalles,54.2
+698,1964,100m,Freestyle,Men,USA,Michael Mackay Austin,54.5
+699,1964,100m,Freestyle,Men,HUN,Gyula Dobai,54.9
+700,1964,100m,Freestyle,Men,GER,Uwe Jacobsen,56.1
+703,1960,100m,Freestyle,Men,AUS,John Devitt,55.2
+704,1960,100m,Freestyle,Men,USA,Lance Melvin Larson,55.1
+705,1960,100m,Freestyle,Men,BRA,Manuel Dos Santos Filho,55.4
+706,1960,100m,Freestyle,Men,USA,Richard Bruce Hunter,55.6
+707,1960,100m,Freestyle,Men,HUN,Gyula Dobai,56.3
+708,1960,100m,Freestyle,Men,CAN,Richard W. Pound,56.3
+709,1960,100m,Freestyle,Men,RSA,Aubrey Burer,56.3
+710,1960,100m,Freestyle,Men,SWE,Per-Ola Lindberg,57.1
+711,1956,100m,Freestyle,Men,AUS,Jon Malcolm Henricks,55.4
+712,1956,100m,Freestyle,Men,AUS,John Devitt,55.8
+713,1956,100m,Freestyle,Men,AUS,Gary Chapman,56.7
+714,1956,100m,Freestyle,Men,USA,Logan Reid Patterson,57.2
+715,1956,100m,Freestyle,Men,USA,Richard Dennis Hanley,57.6
+716,1956,100m,Freestyle,Men,USA,William Tripp Woolsey,57.6
+717,1956,100m,Freestyle,Men,JPN,Atsushi Tani,58.0
+718,1956,100m,Freestyle,Men,FRA,Aldo Eminente,58.1
+719,1952,100m,Freestyle,Men,USA,Clark Currie Scholes,57.4
+720,1952,100m,Freestyle,Men,JPN,Hiroshi Suzuki,57.4
+721,1952,100m,Freestyle,Men,SWE,Göran Larsson,58.2
+722,1952,100m,Freestyle,Men,JPN,Toru Goto,58.5
+723,1952,100m,Freestyle,Men,HUN,Geza Kadas,58.6
+724,1952,100m,Freestyle,Men,AUS,Rex Aubrey,58.7
+725,1952,100m,Freestyle,Men,FRA,Aldo Eminente,58.7
+726,1952,100m,Freestyle,Men,USA,Ronald Francis Gora,58.8
+727,1948,100m,Freestyle,Men,USA,Walter Stephen Ris,57.3
+728,1948,100m,Freestyle,Men,USA,Alan Robert Ford,57.8
+729,1948,100m,Freestyle,Men,HUN,Geza Kadas,58.1
+730,1948,100m,Freestyle,Men,USA,Keith Eyre Carter,58.3
+731,1948,100m,Freestyle,Men,FRA,Alexandre Jany,58.3
+732,1948,100m,Freestyle,Men,SWE,Per-Olof Olsson,59.3
+733,1948,100m,Freestyle,Men,HUN,Zoltan Szilard,59.6
+734,1936,100m,Freestyle,Men,HUN,Ferenc Csik,57.6
+735,1936,100m,Freestyle,Men,JPN,Masanori Yusa,57.9
+736,1936,100m,Freestyle,Men,JPN,Shigeo Arai,58.0
+737,1936,100m,Freestyle,Men,JPN,Masaharu Taguchi,58.1
+738,1936,100m,Freestyle,Men,GER,Helmuth Fischer,59.3
+739,1936,100m,Freestyle,Men,USA,Peter Joseph Fick,59.7
+740,1936,100m,Freestyle,Men,USA,Arthur Lindegren,59.9
+741,1932,100m,Freestyle,Men,JPN,Yasuji Mioyazaki,58.2
+742,1932,100m,Freestyle,Men,JPN,Tatsugo Kawaishi,58.6
+743,1932,100m,Freestyle,Men,USA,Albert Schwartz,58.8
+744,1932,100m,Freestyle,Men,USA,Manuella Kalili,59.2
+745,1932,100m,Freestyle,Men,JPN,Zenjiro Takahashi,59.2
+746,1932,100m,Freestyle,Men,USA,Raymond Webb Jr. Thompson,59.5
+747,1928,100m,Freestyle,Men,USA,Johnny Weissmuller,58.6
+748,1928,100m,Freestyle,Men,HUN,Istvan Barany,59.8
+749,1924,100m,Freestyle,Men,USA,Johnny Weissmuller,59.0
