@@ -1,0 +1,73 @@
+,Year,Distance (in meters),Stroke,Gender,Team,Athlete,Results,Rank
+32,2020,50m,Freestyle,Men,USA,Caeleb Dressel,21.07,1
+33,2020,50m,Freestyle,Men,FRA,Florent Manaudou,21.55,2
+34,2020,50m,Freestyle,Men,BRA,Bruno Fratus,21.57,3
+35,2020,50m,Freestyle,Men,USA,Michael Andrew,21.6,4
+36,2020,50m,Freestyle,Men,GBR,Ben Proud,21.72,4
+37,2020,50m,Freestyle,Men,GRE,Kristian Gkolomeev,21.72,4
+38,2020,50m,Freestyle,Men,ITA,Lorenzo Zazzeri,21.78,4
+39,2020,50m,Freestyle,Men,NED,Thom De Boer,21.79,4
+127,2016,50m,Freestyle,Men,USA,Anthony Ervin,21.4,1
+128,2016,50m,Freestyle,Men,FRA,Florent Manaudou,21.41,2
+129,2016,50m,Freestyle,Men,USA,Nathan Adrian,21.49,3
+130,2016,50m,Freestyle,Men,GBR,Ben Proud,21.68,4
+131,2016,50m,Freestyle,Men,UKR,Andriy Hovorov,21.74,4
+132,2016,50m,Freestyle,Men,BRA,Bruno Fratus,21.79,4
+133,2016,50m,Freestyle,Men,RSA,Bradley Edward Tandy,21.79,4
+134,2016,50m,Freestyle,Men,LTU,Simonas Bilis,22.08,4
+197,2012,50m,Freestyle,Men,FRA,Florent Manaudou,21.34,1
+198,2012,50m,Freestyle,Men,USA,Cullen Jones,21.54,2
+199,2012,50m,Freestyle,Men,BRA,Cesar Cielo Filho,21.59,3
+200,2012,50m,Freestyle,Men,BRA,Bruno Fratus,21.61,4
+201,2012,50m,Freestyle,Men,USA,Anthony Ervin,21.78,4
+202,2012,50m,Freestyle,Men,RSA,Roland Schoeman,21.8,4
+203,2012,50m,Freestyle,Men,TTO,George Bovell,21.82,4
+204,2012,50m,Freestyle,Men,AUS,Eamon Sullivan,21.98,4
+265,2008,50m,Freestyle,Men,BRA,Cesar Cielo Filho,21.3,1
+266,2008,50m,Freestyle,Men,FRA,Amaury Leveaux,21.45,2
+267,2008,50m,Freestyle,Men,FRA,Alain Bernard,21.49,3
+268,2008,50m,Freestyle,Men,AUS,Ashley Callus,21.62,4
+269,2008,50m,Freestyle,Men,USA,Ben Wildman-Tobriner,21.64,4
+270,2008,50m,Freestyle,Men,AUS,Eamon Sullivan,21.65,4
+271,2008,50m,Freestyle,Men,RSA,Roland Schoeman,21.67,4
+272,2008,50m,Freestyle,Men,SWE,Stefan Nystrand,21.72,4
+321,2004,50m,Freestyle,Men,USA,"Gary Hall, Jr.",21.93,1
+322,2004,50m,Freestyle,Men,CRO,Duje Draganja,21.94,2
+323,2004,50m,Freestyle,Men,RSA,Roland Schoeman,22.02,3
+324,2004,50m,Freestyle,Men,SWE,Stefan Nystrand,22.08,4
+325,2004,50m,Freestyle,Men,USA,Jason Lezak,22.11,4
+326,2004,50m,Freestyle,Men,AUS,Brett Hawke,22.18,4
+327,2004,50m,Freestyle,Men,UKR,Oleksandr Volynets,22.26,4
+328,2004,50m,Freestyle,Men,ALG,Salim Iles,22.37,4
+377,2000,50m,Freestyle,Men,USA,"Gary Hall, Jr.",21.98,1
+378,2000,50m,Freestyle,Men,USA,Anthony Ervin,21.98,1
+379,2000,50m,Freestyle,Men,NED,Pieter Van Den Hoogenband,22.03,3
+380,2000,50m,Freestyle,Men,ITA,Lorenzo Vismara,22.11,4
+381,2000,50m,Freestyle,Men,POL,Bartosz Kizierowski,22.22,4
+382,2000,50m,Freestyle,Men,RUS,Alexander Popov,22.24,4
+383,2000,50m,Freestyle,Men,GBR,Mark Andrew Foster,22.41,4
+384,2000,50m,Freestyle,Men,UKR,Oleksandr Volynets,22.51,4
+428,1996,50m,Freestyle,Men,RUS,Alexander Popov,22.13,1
+429,1996,50m,Freestyle,Men,USA,"Gary Hall, Jr.",22.26,2
+430,1996,50m,Freestyle,Men,BRA,Fernando Scherer,22.29,3
+431,1996,50m,Freestyle,Men,CHN,Chengji Jiang,22.33,4
+432,1996,50m,Freestyle,Men,RSA,Brendon Dedekind,22.59,4
+433,1996,50m,Freestyle,Men,USA,David Fox,22.68,4
+434,1996,50m,Freestyle,Men,VEN,Francisco Sanchez,22.72,4
+435,1996,50m,Freestyle,Men,PUR,Ricardo Busquets Healy,22.73,4
+482,1992,50m,Freestyle,Men,EUN,Alexander Popov,21.91,1
+483,1992,50m,Freestyle,Men,USA,Matthew Biondi,22.09,2
+484,1992,50m,Freestyle,Men,USA,Thomas Michael Jager,22.3,3
+485,1992,50m,Freestyle,Men,FRA,Christophe Kalfayan,22.5,4
+486,1992,50m,Freestyle,Men,RSA,Peter Rowan Williams,22.5,4
+487,1992,50m,Freestyle,Men,GBR,Mark Andrew Foster,22.52,4
+488,1992,50m,Freestyle,Men,EUN,Gennady Prigoda,22.54,4
+489,1992,50m,Freestyle,Men,GER,Nils Rudolph,22.73,4
+534,1988,50m,Freestyle,Men,USA,Matthew Biondi,22.14,1
+535,1988,50m,Freestyle,Men,USA,Thomas Michael Jager,22.36,2
+536,1988,50m,Freestyle,Men,URS,Gennady Prigoda,22.71,3
+537,1988,50m,Freestyle,Men,SUI,Dano Halsall,22.83,4
+538,1988,50m,Freestyle,Men,SUI,Stefan Volery,22.84,4
+539,1988,50m,Freestyle,Men,URS,Vladimir Tkachenko,22.88,4
+540,1988,50m,Freestyle,Men,FRG,Frank Henter,23.03,4
+541,1988,50m,Freestyle,Men,AUS,Andrew James Baildon,23.15,4

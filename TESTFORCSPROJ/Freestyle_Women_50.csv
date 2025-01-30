@@ -1,0 +1,73 @@
+,Year,Distance (in meters),Stroke,Gender,Team,Athlete,Results,Rank
+64,2020,50m,Freestyle,Women,AUS,Emma Mckeon,23.81,1
+65,2020,50m,Freestyle,Women,SWE,Sarah Sjoestroem,24.07,2
+66,2020,50m,Freestyle,Women,DEN,Pernille Blume,24.21,3
+67,2020,50m,Freestyle,Women,NED,Ranomi Kromowidjojo,24.3,4
+68,2020,50m,Freestyle,Women,POL,Katarzyna Wasick,24.32,4
+69,2020,50m,Freestyle,Women,CHN,Qingfeng Wu,24.32,4
+70,2020,50m,Freestyle,Women,AUS,Cate Campbell,24.36,4
+71,2020,50m,Freestyle,Women,USA,Abbey Weitzeil,24.41,4
+135,2016,50m,Freestyle,Women,DEN,Pernille Blume,24.07,1
+136,2016,50m,Freestyle,Women,USA,Simone Manuel,24.09,2
+137,2016,50m,Freestyle,Women,BLR,Aliaksandra Herasimenia,24.11,3
+138,2016,50m,Freestyle,Women,GBR,Francesca Halsall,24.13,4
+139,2016,50m,Freestyle,Women,AUS,Cate Campbell,24.15,4
+140,2016,50m,Freestyle,Women,NED,Ranomi Kromowidjojo,24.19,4
+141,2016,50m,Freestyle,Women,AUS,Bronte Campbell,24.42,4
+142,2016,50m,Freestyle,Women,BRA,Etiene Medeiros,24.69,4
+205,2012,50m,Freestyle,Women,NED,Ranomi Kromowidjojo,24.05,1
+206,2012,50m,Freestyle,Women,BLR,Aliaksandra Herasimenia,24.28,2
+207,2012,50m,Freestyle,Women,NED,Marleen Veldhuis,24.39,3
+208,2012,50m,Freestyle,Women,GER,Britta Steffen,24.46,4
+209,2012,50m,Freestyle,Women,GBR,Francesca Halsall,24.47,4
+210,2012,50m,Freestyle,Women,SWE,Therese Alshammar,24.61,4
+211,2012,50m,Freestyle,Women,USA,Jessica Hardy,24.62,4
+212,2012,50m,Freestyle,Women,BAH,Arianna Vanderpool-Wallace,24.69,4
+273,2008,50m,Freestyle,Women,GER,Britta Steffen,24.06,1
+274,2008,50m,Freestyle,Women,USA,Dara Torres,24.07,2
+275,2008,50m,Freestyle,Women,AUS,Cate Campbell,24.17,3
+276,2008,50m,Freestyle,Women,AUS,Libby Trickett,24.25,4
+277,2008,50m,Freestyle,Women,NED,Marleen Veldhuis,24.26,4
+278,2008,50m,Freestyle,Women,USA,Kara Lynn Joyce,24.63,4
+279,2008,50m,Freestyle,Women,NED,Hinkelien Schreuder,24.65,4
+280,2008,50m,Freestyle,Women,BLR,Aliaksandra Herasimenia,24.77,4
+329,2004,50m,Freestyle,Women,NED,Inge De Bruijn,24.58,1
+330,2004,50m,Freestyle,Women,FRA,Malia Metella,24.89,2
+331,2004,50m,Freestyle,Women,AUS,Libby Trickett,24.91,3
+332,2004,50m,Freestyle,Women,SWE,Therese Alshammar,24.93,4
+333,2004,50m,Freestyle,Women,USA,Kara Lynn Joyce,25.0,4
+334,2004,50m,Freestyle,Women,AUS,Michelle Engelsman,25.06,4
+335,2004,50m,Freestyle,Women,USA,Jenny Thompson,25.11,4
+336,2004,50m,Freestyle,Women,BRA,Flavia Cazziolato,25.2,4
+385,2000,50m,Freestyle,Women,NED,Inge De Bruijn,24.32,1
+386,2000,50m,Freestyle,Women,SWE,Therese Alshammar,24.51,2
+387,2000,50m,Freestyle,Women,USA,Dara Torres,24.63,3
+388,2000,50m,Freestyle,Women,USA,Amy Van Dyken,25.04,4
+389,2000,50m,Freestyle,Women,SVK,Martina Moravcova,25.24,4
+390,2000,50m,Freestyle,Women,GER,Sandra Voelker,25.27,4
+391,2000,50m,Freestyle,Women,GBR,Alison Sheppard,25.45,4
+392,2000,50m,Freestyle,Women,JPN,Sumika Minamoto,25.65,4
+436,1996,50m,Freestyle,Women,USA,Amy Van Dyken,24.87,1
+437,1996,50m,Freestyle,Women,CHN,Jingyi Le,24.9,2
+438,1996,50m,Freestyle,Women,GER,Sandra Voelker,25.14,3
+439,1996,50m,Freestyle,Women,USA,Angel Martino,25.31,4
+440,1996,50m,Freestyle,Women,BAR,Leah Martindale,25.49,4
+441,1996,50m,Freestyle,Women,SWE,Linda Olofsson,25.63,4
+442,1996,50m,Freestyle,Women,CHN,Ying Shan,25.7,4
+443,1996,50m,Freestyle,Women,RUS,Natalia Meshcheryakova,25.88,4
+490,1992,50m,Freestyle,Women,CHN,Wenyi Yang,24.79,1
+491,1992,50m,Freestyle,Women,CHN,Yong Zhuang,25.08,2
+492,1992,50m,Freestyle,Women,USA,Angel Martino,25.23,3
+493,1992,50m,Freestyle,Women,FRA,Catherine Plewinski,25.36,4
+494,1992,50m,Freestyle,Women,USA,Jenny Thompson,25.37,4
+495,1992,50m,Freestyle,Women,EUN,Natalia Meshcheryakova,25.47,4
+496,1992,50m,Freestyle,Women,GER,Simone Osygus,25.74,4
+497,1992,50m,Freestyle,Women,NED,Inge De Bruijn,25.84,4
+542,1988,50m,Freestyle,Women,GDR,Kristin Otto,25.49,1
+543,1988,50m,Freestyle,Women,CHN,Wenyi Yang,25.64,2
+544,1988,50m,Freestyle,Women,GDR,Katrin Meissner,25.71,3
+545,1988,50m,Freestyle,Women,USA,Jill Sterkel,25.71,3
+546,1988,50m,Freestyle,Women,USA,Leigh Ann Fetter,25.78,4
+547,1988,50m,Freestyle,Women,ROU,Tamara Costache,25.8,4
+548,1988,50m,Freestyle,Women,FRA,Catherine Plewinski,25.9,4
+549,1988,50m,Freestyle,Women,AUS,Karen Tracey Van Wirdum,26.01,4
