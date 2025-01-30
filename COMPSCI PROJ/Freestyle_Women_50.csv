@@ -1,0 +1,73 @@
+,Year,Distance (in meters),Stroke,Gender,Team,Athlete,Results
+64,2020,50m,Freestyle,Women,AUS,Emma Mckeon,23.81
+65,2020,50m,Freestyle,Women,SWE,Sarah Sjoestroem,24.07
+66,2020,50m,Freestyle,Women,DEN,Pernille Blume,24.21
+67,2020,50m,Freestyle,Women,NED,Ranomi Kromowidjojo,24.3
+68,2020,50m,Freestyle,Women,POL,Katarzyna Wasick,24.32
+69,2020,50m,Freestyle,Women,CHN,Qingfeng Wu,24.32
+70,2020,50m,Freestyle,Women,AUS,Cate Campbell,24.36
+71,2020,50m,Freestyle,Women,USA,Abbey Weitzeil,24.41
+135,2016,50m,Freestyle,Women,DEN,Pernille Blume,24.07
+136,2016,50m,Freestyle,Women,USA,Simone Manuel,24.09
+137,2016,50m,Freestyle,Women,BLR,Aliaksandra Herasimenia,24.11
+138,2016,50m,Freestyle,Women,GBR,Francesca Halsall,24.13
+139,2016,50m,Freestyle,Women,AUS,Cate Campbell,24.15
+140,2016,50m,Freestyle,Women,NED,Ranomi Kromowidjojo,24.19
+141,2016,50m,Freestyle,Women,AUS,Bronte Campbell,24.42
+142,2016,50m,Freestyle,Women,BRA,Etiene Medeiros,24.69
+205,2012,50m,Freestyle,Women,NED,Ranomi Kromowidjojo,24.05
+206,2012,50m,Freestyle,Women,BLR,Aliaksandra Herasimenia,24.28
+207,2012,50m,Freestyle,Women,NED,Marleen Veldhuis,24.39
+208,2012,50m,Freestyle,Women,GER,Britta Steffen,24.46
+209,2012,50m,Freestyle,Women,GBR,Francesca Halsall,24.47
+210,2012,50m,Freestyle,Women,SWE,Therese Alshammar,24.61
+211,2012,50m,Freestyle,Women,USA,Jessica Hardy,24.62
+212,2012,50m,Freestyle,Women,BAH,Arianna Vanderpool-Wallace,24.69
+273,2008,50m,Freestyle,Women,GER,Britta Steffen,24.06
+274,2008,50m,Freestyle,Women,USA,Dara Torres,24.07
+275,2008,50m,Freestyle,Women,AUS,Cate Campbell,24.17
+276,2008,50m,Freestyle,Women,AUS,Libby Trickett,24.25
+277,2008,50m,Freestyle,Women,NED,Marleen Veldhuis,24.26
+278,2008,50m,Freestyle,Women,USA,Kara Lynn Joyce,24.63
+279,2008,50m,Freestyle,Women,NED,Hinkelien Schreuder,24.65
+280,2008,50m,Freestyle,Women,BLR,Aliaksandra Herasimenia,24.77
+329,2004,50m,Freestyle,Women,NED,Inge De Bruijn,24.58
+330,2004,50m,Freestyle,Women,FRA,Malia Metella,24.89
+331,2004,50m,Freestyle,Women,AUS,Libby Trickett,24.91
+332,2004,50m,Freestyle,Women,SWE,Therese Alshammar,24.93
+333,2004,50m,Freestyle,Women,USA,Kara Lynn Joyce,25.0
+334,2004,50m,Freestyle,Women,AUS,Michelle Engelsman,25.06
+335,2004,50m,Freestyle,Women,USA,Jenny Thompson,25.11
+336,2004,50m,Freestyle,Women,BRA,Flavia Cazziolato,25.2
+385,2000,50m,Freestyle,Women,NED,Inge De Bruijn,24.32
+386,2000,50m,Freestyle,Women,SWE,Therese Alshammar,24.51
+387,2000,50m,Freestyle,Women,USA,Dara Torres,24.63
+388,2000,50m,Freestyle,Women,USA,Amy Van Dyken,25.04
+389,2000,50m,Freestyle,Women,SVK,Martina Moravcova,25.24
+390,2000,50m,Freestyle,Women,GER,Sandra Voelker,25.27
+391,2000,50m,Freestyle,Women,GBR,Alison Sheppard,25.45
+392,2000,50m,Freestyle,Women,JPN,Sumika Minamoto,25.65
+436,1996,50m,Freestyle,Women,USA,Amy Van Dyken,24.87
+437,1996,50m,Freestyle,Women,CHN,Jingyi Le,24.9
+438,1996,50m,Freestyle,Women,GER,Sandra Voelker,25.14
+439,1996,50m,Freestyle,Women,USA,Angel Martino,25.31
+440,1996,50m,Freestyle,Women,BAR,Leah Martindale,25.49
+441,1996,50m,Freestyle,Women,SWE,Linda Olofsson,25.63
+442,1996,50m,Freestyle,Women,CHN,Ying Shan,25.7
+443,1996,50m,Freestyle,Women,RUS,Natalia Meshcheryakova,25.88
+490,1992,50m,Freestyle,Women,CHN,Wenyi Yang,24.79
+491,1992,50m,Freestyle,Women,CHN,Yong Zhuang,25.08
+492,1992,50m,Freestyle,Women,USA,Angel Martino,25.23
+493,1992,50m,Freestyle,Women,FRA,Catherine Plewinski,25.36
+494,1992,50m,Freestyle,Women,USA,Jenny Thompson,25.37
+495,1992,50m,Freestyle,Women,EUN,Natalia Meshcheryakova,25.47
+496,1992,50m,Freestyle,Women,GER,Simone Osygus,25.74
+497,1992,50m,Freestyle,Women,NED,Inge De Bruijn,25.84
+542,1988,50m,Freestyle,Women,GDR,Kristin Otto,25.49
+543,1988,50m,Freestyle,Women,CHN,Wenyi Yang,25.64
+544,1988,50m,Freestyle,Women,GDR,Katrin Meissner,25.71
+545,1988,50m,Freestyle,Women,USA,Jill Sterkel,25.71
+546,1988,50m,Freestyle,Women,USA,Leigh Ann Fetter,25.78
+547,1988,50m,Freestyle,Women,ROU,Tamara Costache,25.8
+548,1988,50m,Freestyle,Women,FRA,Catherine Plewinski,25.9
+549,1988,50m,Freestyle,Women,AUS,Karen Tracey Van Wirdum,26.01
